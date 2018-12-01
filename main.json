@@ -1,0 +1,56 @@
+{
+	"profile":{
+		"img":"hyd.jpg",
+		"name":"Rajitha",
+		"roll":"16NN1A240",
+		"college":"vignan",
+		"place":"Guntur"
+	},
+	"career":{
+		"info":"I am seeking employment with a company where I can grow professionally and personally."
+	},
+	"Education":[
+		{
+			"degree":"B.tech",
+			"Institution":"vignan",
+			"Yearofpass":"2020"
+		},
+		{
+			"degree":"Intermadiate",
+			"Institution":"Sri chaitanya",
+			"Yearofpass":"2016"
+		},
+		{
+			"degree":"ssc",
+			"Institution":"Noble Em",
+			"Yearofpass":"2014"
+		}
+	],
+	"Languages":[
+		{
+			"lang":"telugu"
+
+		},
+		{
+			"lang":"english"
+		},
+		{
+			"lang":"hindi"
+		}
+	],
+	"Skills":[
+		{
+			"title":"platforms",
+			"content":"windows,linux"
+		},
+		{
+			"title":"programming languages",
+			"contents":"c,c++,java"
+		},
+		{
+			"title":"database",
+			"content":"mysql"
+
+		}
+	]
+}
